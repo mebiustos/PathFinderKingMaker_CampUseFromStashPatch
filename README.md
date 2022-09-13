@@ -1,0 +1,1 @@
+"# PathFinderKingMaker_CampUseFromStashPatch" 

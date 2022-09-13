@@ -1,0 +1,8 @@
+﻿{
+	"Id": "CampUseFromStashPatch",
+	"DisplayName": "CampUseFromStashPatch",
+	"Author": "MebiusTOS",
+	"Version": "0.0.1",
+	"AssemblyName": "CampUseFromStashPatch.dll",
+	"EntryMethod": "CampUseFromStashPatch.Main.Load"
+}
